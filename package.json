@@ -120,7 +120,7 @@
     "@babel/node": "^7.20.7",
     "@babel/preset-typescript": "^7.22.5",
     "@cypress/browserify-preprocessor": "^3.0.2",
-    "@cypress/vue2": "^2.0.1",
+    "@cypress/vue2": "^2.1.1",
     "@jest/globals": "^29.5.0",
     "@nextcloud/babel-config": "^1.0.0",
     "@nextcloud/cypress": "^1.0.0-beta.2",
